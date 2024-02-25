@@ -1,0 +1,16 @@
+USERNAME - PASSWORD - WINS
+==========================
+anto - pass - 1
+moreira - 1234 - 3
+hugo - hugo - 2
+liaa - pass - 4
+toni - 1234 - 5
+ola - 123 - 1
+MOREIRA - 1234 - 8
+bru - 1234 - 2
+joaquim - 123 - 9
+joao - 1234 - 3
+test - 1234 - 11
+lllll - 1234 - 3
+ppppp - 1234 - 2
+olaaa - 1234 - 1
